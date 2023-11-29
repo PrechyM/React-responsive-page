@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 import './navbar.css'
 import {RiMenu3Line, RiCloseLine} from 'react-icons/ri';
-import logo from '../../assets/logo.svg';
+import logo from '../../assets/logo Prechy.svg';
 
 const Menu = () => (
   <>
   <p><a href='#home'>Home</a></p>
-  <p><a href='#responsive'>What is GPT3</a></p>
-  <p><a href='#possibility'>Open AI</a></p>
-  <p><a href='#features'>Case Studies</a></p>
-  <p><a href='#blog'>Library</a></p>
+  <p><a href='#responsive'>Who is Prechy</a></p>
+  <p><a href='#possibility'>Motorcycles</a></p>
+  <p><a href='#features'>Top picks for A2</a></p>
+  <p><a href='#blog'>Useful articles</a></p>
   </>
 )
 /*BEM -> Block Element Modifier */
