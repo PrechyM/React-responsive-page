@@ -15,8 +15,9 @@ a {
 }
 
 .gradient__bg {
-    /* global 92%+ browsers support */
-    background: radial-gradient(circle at 12% 72%, rgba(17, 45, 76, 1) 20%, rgba(0, 0, 0, 1) 61%, rgba(180, 229, 255, 1) 100%);
+        /* global 94%+ browsers support */
+        background: linear-gradient(125deg, rgba(255, 33, 42, 0.88) 0%, rgba(0, 0, 0, 1) 12%, rgba(17, 45, 76, 1) 48%, rgba(0, 0, 0, 1) 88%, rgba(255, 33, 42, 0.88) 100%);
+
   } /*angrytools.com */
 
   .gradient__text {

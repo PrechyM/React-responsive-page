@@ -6,9 +6,9 @@ import logo from '../../assets/logo Prechy.svg';
 const Menu = () => (
   <>
   <p><a href='#home'>Home</a></p>
-  <p><a href='#responsive'>Who is Prechy</a></p>
-  <p><a href='#possibility'>Motorcycles</a></p>
-  <p><a href='#features'>Top picks for A2</a></p>
+  <p><a href='#about'>Who is Prechy</a></p>
+  <p><a href='#features'>Motorcycles</a></p>
+  <p><a href='#possibility'>Top picks for A2</a></p>
   <p><a href='#blog'>Useful articles</a></p>
   </>
 )

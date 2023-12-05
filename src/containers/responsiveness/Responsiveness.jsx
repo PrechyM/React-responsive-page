@@ -1,8 +1,8 @@
 import React from 'react'
-import './responsive.css'
+import './responsiveness.css'
 import { Feature } from '../../components'
 
-const Responsive = () => {
+const Responsiveness = () => {
   return (
     <div className='responsive__about section__margin' id="about">
       <div className='responive__about-feature'>
@@ -22,4 +22,4 @@ const Responsive = () => {
   )
 }
 
-export default Responsive
+export default Responsiveness
