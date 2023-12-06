@@ -8,7 +8,7 @@ const Features = () => {
     <div className='responsive__features section__padding' id="features">
       <div className='responsive__features-heading'>
         <h1 className='gradient__text'>
-          What kind of motorcycles do you need?
+          What kind of motorcycles suits you?
         </h1>
         <p>Nobody cares about electric motorcycles!</p>
         <div className='responsive__features-image'>
